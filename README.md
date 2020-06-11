@@ -41,7 +41,7 @@ The challenge was to build out this introductory component and get it looking as
 * BEM
 * ICOMOON SVG ICONS
 
-**Link to LIVE page 👉:** https://simeon4real.github.io/fylo/
+**Link to LIVE page 👉:** https://fylo-frontendmentor.netlify.app/
 
 
 
